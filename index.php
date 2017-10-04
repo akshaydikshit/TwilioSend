@@ -1,7 +1,7 @@
 <?php 
  
 // Get the PHP helper library from 
-require_once '/vendor/autoload.php';use Twilio\Rest\Client; 
+require_once 'vendor/autoload.php';use Twilio\Rest\Client; 
  
 $account_sid = 'ACf008ac9a8d930086e0f663674f37597c'; 
 $auth_token = '1d1204cad6b8a0c6184a87b5f1b02766'; 
